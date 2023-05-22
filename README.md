@@ -10,5 +10,5 @@ Veckoprojekt 4
 ### Level-up
 * Få ut skämten i din html
 * Lägg till en extra egenskap
-* Ta bort alla skämt som har värdet false på egenskapen "funny"
+* Ta bort alla skämt i listan som har värdet false på egenskapen "funny"
 
